@@ -1,0 +1,16 @@
+.DS_Store
+.Trash/
+.cache/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+*.log
+*.dmg
+*.mp4
+*.zip
+*.pdf
+*.jpg
+*.jpeg
+*.png
+
+
